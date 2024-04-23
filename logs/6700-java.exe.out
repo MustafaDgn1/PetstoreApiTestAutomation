@@ -1,0 +1,53 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 2009milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 2009"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 51220"}
+{"logLevel":"info","message":"Listening on port:51220"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.apimethods.Tests.Store.GetOrder.getOrder' and 'org.example.apimethods.Tests.Store.GetOrder.getOrder'"}
+{"logLevel":"debug","message":"Found Get Order in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.apimethods.Tests.User.DeleteUser.deleteUser' and 'org.example.apimethods.Tests.User.DeleteUser.deleteUser'"}
+{"logLevel":"debug","message":"Found Delete User in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.apimethods.Tests.Store.DeleteOrder.deleteOrder' and 'org.example.apimethods.Tests.Store.DeleteOrder.deleteOrder'"}
+{"logLevel":"debug","message":"Found Delete Order in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.apimethods.Tests.User.GetUser.getUser' and 'org.example.apimethods.Tests.User.GetUser.getUser'"}
+{"logLevel":"debug","message":"Found Get User in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.apimethods.Tests.Store.CreateOrder.createOrder' and 'org.example.apimethods.Tests.Store.CreateOrder.createOrder'"}
+{"logLevel":"debug","message":"Found Create Order in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.apimethods.Tests.User.UpdateUser.updateDraft' and 'org.example.apimethods.Tests.User.UpdateUser.updateDraft'"}
+{"logLevel":"debug","message":"Found Update User in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.apimethods.Tests.Pet.UpdatePet.updatePet' and 'org.example.apimethods.Tests.Pet.UpdatePet.updatePet'"}
+{"logLevel":"debug","message":"Found Update Pet in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.apimethods.Tests.Pet.GetPet.getPet' and 'org.example.apimethods.Tests.Pet.GetPet.getPet'"}
+{"logLevel":"debug","message":"Found Get Pet in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.apimethods.Tests.Store.GetInventory.getInventory' and 'org.example.apimethods.Tests.Store.GetInventory.getInventory'"}
+{"logLevel":"debug","message":"Found Get Inventory in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.apimethods.Tests.Pet.CreatePet.createPet' and 'org.example.apimethods.Tests.Pet.CreatePet.createPet'"}
+{"logLevel":"debug","message":"Found Create Pet in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.apimethods.Tests.User.CreateUser.createUser' and 'org.example.apimethods.Tests.User.CreateUser.createUser'"}
+{"logLevel":"debug","message":"Found Create User in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tGet Pet : public void getPet()"}
+{"logLevel":"debug","message":"\tGet User : public void getUser()"}
+{"logLevel":"debug","message":"\tDelete Order : public void deleteOrder()"}
+{"logLevel":"debug","message":"\tDelete User : public void deleteUser()"}
+{"logLevel":"debug","message":"\tCreate User : public void createUser()"}
+{"logLevel":"debug","message":"\tUpdate User : public void updateDraft()"}
+{"logLevel":"debug","message":"\tGet Order : public void getOrder()"}
+{"logLevel":"debug","message":"\tGet Inventory : public void getInventory()"}
+{"logLevel":"debug","message":"\tCreate Pet : public void createPet()"}
+{"logLevel":"debug","message":"\tUpdate Pet : public void updatePet()"}
+{"logLevel":"debug","message":"\tCreate Order : public void createOrder()"}
+{"logLevel":"debug","message":"Executing 'Create Pet' using 'class org.example.apimethods.Tests.Pet.CreatePet.createPet"}
+{"logLevel":"debug","message":"Executing 'Get Pet' using 'class org.example.apimethods.Tests.Pet.GetPet.getPet"}
+{"logLevel":"debug","message":"Executing 'Update Pet' using 'class org.example.apimethods.Tests.Pet.UpdatePet.updatePet"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

@@ -1,0 +1,11 @@
+{
+    "id" : "screenshot",
+    "version" : "0.1.0",
+    "name" : "Screenshot",
+    "description" : "cross-platform command line screenshot utility",
+    "scope" : [],
+    "gaugeVersionSupport": {
+        "minimum": "0.8.3",
+        "maximum": ""
+    }
+}

@@ -1,0 +1,660 @@
+11-03-2024 11:45:34.922 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 11:45:34.924 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 11:45:34.925 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 11:45:34.925 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 11:45:34.925 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 11:45:34.925 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 11:48:20.409 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 11:48:20.409 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 11:48:20.409 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 11:48:20.411 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 11:48:20.411 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 11:48:20.411 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 11:50:36.268 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec
+11-03-2024 11:50:36.269 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 11:50:36.269 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 11:50:36.269 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 11:50:36.269 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 11:50:36.269 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 11:50:40.404 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec
+11-03-2024 11:50:40.404 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 11:50:40.404 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 11:50:40.404 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 11:50:40.405 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 11:50:40.405 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 11:50:47.714 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec
+11-03-2024 11:50:47.715 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 11:50:47.715 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 11:50:47.715 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 11:50:47.715 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 11:50:47.715 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 11:51:00.733 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec
+11-03-2024 11:51:00.734 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 11:51:00.734 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 11:51:00.734 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 11:51:00.734 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 11:51:00.734 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 11:53:54.762 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 11:53:54.762 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 11:53:54.762 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 11:53:54.762 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 11:53:54.762 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 11:53:54.762 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 11:54:59.445 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 11:54:59.445 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 11:54:59.445 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 11:54:59.445 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 11:54:59.446 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 11:54:59.446 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 13:28:04.990 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 13:28:04.991 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 13:28:04.991 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 13:28:04.991 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 13:28:04.992 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 13:28:04.992 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 13:30:01.417 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 13:30:01.418 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 13:30:01.418 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 13:30:01.418 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 13:30:01.418 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 13:30:01.418 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 13:30:35.162 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec
+11-03-2024 13:30:35.162 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 13:30:35.162 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 13:30:35.162 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 13:30:35.162 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 13:30:35.162 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 13:34:39.307 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 13:34:39.307 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 13:34:39.307 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 13:34:39.307 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 13:34:39.308 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 13:34:39.308 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 13:37:57.629 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 13:37:57.632 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 13:37:57.632 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 13:37:57.632 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 13:37:57.632 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 13:37:57.632 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 13:39:25.261 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 13:39:25.261 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 13:39:25.261 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 13:39:25.261 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 13:39:25.261 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 13:39:25.261 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 13:39:29.997 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 13:39:29.997 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 13:39:29.997 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 13:39:29.997 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 13:39:29.997 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 13:39:29.997 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 13:40:13.628 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 13:40:13.628 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 13:40:13.628 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 13:40:13.628 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 13:40:13.629 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 13:40:13.629 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 13:50:16.037 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec
+11-03-2024 13:50:16.037 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 13:50:16.037 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 13:50:16.037 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 13:50:16.037 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 13:50:16.037 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 13:59:40.982 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 13:59:40.983 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 13:59:40.983 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 13:59:40.983 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 13:59:40.983 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 13:59:40.983 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 20:53:01.625 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 20:53:01.627 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 20:53:01.627 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 20:53:01.627 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 20:53:01.627 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 20:53:01.627 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 20:53:35.567 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 20:53:35.567 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 20:53:35.567 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 20:53:35.567 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 20:53:35.567 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 20:53:35.568 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 20:54:21.994 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 20:54:21.995 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 20:54:21.995 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 20:54:21.995 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 20:54:21.996 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 20:54:21.997 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 20:55:15.643 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+11-03-2024 20:55:15.644 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 20:55:15.644 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 20:55:15.644 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 20:55:15.644 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 20:55:15.645 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 20:55:57.367 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec
+11-03-2024 20:55:57.367 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 20:55:57.367 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 20:55:57.367 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 20:55:57.367 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 20:55:57.367 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+11-03-2024 20:56:29.102 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec
+11-03-2024 20:56:29.102 [Gauge] [DEBUG] hide-suggestion : [true]
+11-03-2024 20:56:29.102 [Gauge] [DEBUG] machine-readable : [true]
+11-03-2024 20:56:29.102 [Gauge] [DEBUG] simple-console : [true]
+11-03-2024 20:56:29.103 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+11-03-2024 20:56:29.103 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 10:30:38.576 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+12-03-2024 10:30:38.578 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 10:30:38.578 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 10:30:38.578 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 10:30:38.578 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 10:30:38.578 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 10:32:19.961 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+12-03-2024 10:32:19.961 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 10:32:19.961 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 10:32:19.961 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 10:32:19.961 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 10:32:19.961 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 10:36:19.886 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/example.spec:4
+12-03-2024 10:36:19.887 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 10:36:19.887 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 10:36:19.887 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 10:36:19.887 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 10:36:19.887 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 11:14:53.678 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 11:14:53.679 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 11:14:53.679 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 11:14:53.679 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 11:14:53.680 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 11:14:53.680 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 11:15:18.254 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 11:15:18.254 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 11:15:18.254 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 11:15:18.254 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 11:15:18.255 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 11:15:18.255 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 11:15:24.691 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 11:15:24.691 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 11:15:24.691 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 11:15:24.691 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 11:15:24.692 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 11:15:24.692 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 11:16:41.687 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 11:16:41.687 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 11:16:41.687 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 11:16:41.687 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 11:16:41.687 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 11:16:41.687 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 11:18:03.502 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 11:18:03.502 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 11:18:03.502 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 11:18:03.502 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 11:18:03.502 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 11:18:03.502 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 11:20:37.242 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 11:20:37.243 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 11:20:37.243 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 11:20:37.243 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 11:20:37.243 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 11:20:37.243 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 11:23:12.918 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 11:23:12.918 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 11:23:12.918 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 11:23:12.918 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 11:23:12.918 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 11:23:12.919 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 11:25:56.868 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 11:25:56.869 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 11:25:56.869 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 11:25:56.869 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 11:25:56.869 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 11:25:56.869 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 11:29:40.182 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 11:29:40.183 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 11:29:40.183 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 11:29:40.183 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 11:29:40.183 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 11:29:40.183 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 11:30:36.314 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 11:30:36.314 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 11:30:36.314 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 11:30:36.314 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 11:30:36.314 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 11:30:36.314 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 11:36:46.330 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 11:36:46.330 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 11:36:46.330 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 11:36:46.330 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 11:36:46.331 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 11:36:46.331 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 11:38:16.114 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 11:38:16.114 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 11:38:16.114 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 11:38:16.114 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 11:38:16.114 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 11:38:16.114 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 11:39:05.852 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 11:39:05.852 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 11:39:05.852 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 11:39:05.852 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 11:39:05.852 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 11:39:05.852 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 13:25:37.059 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 13:25:37.060 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 13:25:37.060 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 13:25:37.060 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 13:25:37.061 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 13:25:37.061 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 13:28:58.133 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 13:28:58.133 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 13:28:58.133 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 13:28:58.133 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 13:28:58.134 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 13:28:58.134 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 14:26:40.373 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 14:26:40.375 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 14:26:40.375 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 14:26:40.375 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 14:26:40.378 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 14:26:40.378 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+12-03-2024 14:28:21.426 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+12-03-2024 14:28:21.427 [Gauge] [DEBUG] hide-suggestion : [true]
+12-03-2024 14:28:21.427 [Gauge] [DEBUG] machine-readable : [true]
+12-03-2024 14:28:21.427 [Gauge] [DEBUG] simple-console : [true]
+12-03-2024 14:28:21.427 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+12-03-2024 14:28:21.427 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+15-03-2024 14:25:09.136 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+15-03-2024 14:25:09.137 [Gauge] [DEBUG] hide-suggestion : [true]
+15-03-2024 14:25:09.137 [Gauge] [DEBUG] machine-readable : [true]
+15-03-2024 14:25:09.137 [Gauge] [DEBUG] simple-console : [true]
+15-03-2024 14:25:09.137 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+15-03-2024 14:25:09.138 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+15-03-2024 14:26:44.423 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+15-03-2024 14:26:44.425 [Gauge] [DEBUG] hide-suggestion : [true]
+15-03-2024 14:26:44.425 [Gauge] [DEBUG] machine-readable : [true]
+15-03-2024 14:26:44.425 [Gauge] [DEBUG] simple-console : [true]
+15-03-2024 14:26:44.426 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+15-03-2024 14:26:44.426 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+03-04-2024 12:02:01.545 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/Bugs/GmailApiTestGauge/specs/Gmail_api.spec:4
+03-04-2024 12:02:01.546 [Gauge] [DEBUG] hide-suggestion : [true]
+03-04-2024 12:02:01.546 [Gauge] [DEBUG] machine-readable : [true]
+03-04-2024 12:02:01.546 [Gauge] [DEBUG] simple-console : [true]
+03-04-2024 12:02:01.546 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+03-04-2024 12:02:01.546 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 12:56:25.445 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Gmail_api.spec:4
+22-04-2024 12:56:25.447 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 12:56:25.447 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 12:56:25.447 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 12:56:25.447 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 12:56:25.447 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 12:59:28.908 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Gmail_api.spec:4
+22-04-2024 12:59:28.908 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 12:59:28.908 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 12:59:28.908 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 12:59:28.908 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 12:59:28.908 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 13:52:51.519 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Gmail_api.spec:4
+22-04-2024 13:52:51.520 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 13:52:51.520 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 13:52:51.520 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 13:52:51.522 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 13:52:51.522 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 14:21:04.489 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Gmail_api.spec:4
+22-04-2024 14:21:04.490 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 14:21:04.490 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 14:21:04.490 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 14:21:04.490 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 14:21:04.490 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 14:46:08.101 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Gmail_api.spec:4
+22-04-2024 14:46:08.102 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 14:46:08.102 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 14:46:08.102 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 14:46:08.103 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 14:46:08.103 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 14:49:07.078 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Gmail_api.spec:4
+22-04-2024 14:49:07.078 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 14:49:07.078 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 14:49:07.078 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 14:49:07.078 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 14:49:07.078 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 14:53:40.011 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Gmail_api.spec:4
+22-04-2024 14:53:40.011 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 14:53:40.011 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 14:53:40.011 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 14:53:40.011 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 14:53:40.011 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 14:56:01.790 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Gmail_api.spec:4
+22-04-2024 14:56:01.790 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 14:56:01.790 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 14:56:01.790 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 14:56:01.791 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 14:56:01.791 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 15:20:54.726 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Gmail_api.spec:4
+22-04-2024 15:20:54.727 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 15:20:54.727 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 15:20:54.727 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 15:20:54.727 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 15:20:54.727 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 15:36:41.179 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 15:36:41.187 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 15:36:41.187 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 15:36:41.187 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 15:36:41.188 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 15:36:41.189 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 15:48:24.247 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 15:48:24.247 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 15:48:24.247 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 15:48:24.247 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 15:48:24.247 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 15:48:24.247 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 16:33:10.766 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 16:33:10.767 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 16:33:10.767 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 16:33:10.767 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 16:33:10.768 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 16:33:10.768 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 16:36:05.723 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 16:36:05.723 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 16:36:05.723 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 16:36:05.723 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 16:36:05.723 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 16:36:05.723 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 16:36:54.292 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 16:36:54.292 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 16:36:54.292 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 16:36:54.292 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 16:36:54.292 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 16:36:54.293 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 16:38:03.849 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 16:38:03.849 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 16:38:03.849 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 16:38:03.849 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 16:38:03.850 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 16:38:03.850 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 16:38:39.583 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 16:38:39.583 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 16:38:39.583 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 16:38:39.583 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 16:38:39.583 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 16:38:39.583 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 16:39:25.925 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 16:39:25.925 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 16:39:25.925 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 16:39:25.925 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 16:39:25.925 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 16:39:25.925 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 16:40:26.304 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 16:40:26.305 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 16:40:26.305 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 16:40:26.305 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 16:40:26.305 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 16:40:26.305 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 16:42:48.505 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 16:42:48.506 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 16:42:48.506 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 16:42:48.506 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 16:42:48.506 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 16:42:48.506 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 16:43:29.776 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 16:43:29.776 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 16:43:29.776 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 16:43:29.776 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 16:43:29.776 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 16:43:29.776 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 16:44:30.300 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 16:44:30.301 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 16:44:30.301 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 16:44:30.301 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 16:44:30.301 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 16:44:30.301 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 16:45:34.548 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 16:45:34.548 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 16:45:34.548 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 16:45:34.548 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 16:45:34.548 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 16:45:34.548 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+22-04-2024 16:49:41.456 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+22-04-2024 16:49:41.456 [Gauge] [DEBUG] hide-suggestion : [true]
+22-04-2024 16:49:41.456 [Gauge] [DEBUG] machine-readable : [true]
+22-04-2024 16:49:41.456 [Gauge] [DEBUG] simple-console : [true]
+22-04-2024 16:49:41.456 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+22-04-2024 16:49:41.456 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 00:13:17.493 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 00:13:17.495 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 00:13:17.495 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 00:13:17.495 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 00:13:17.496 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 00:13:17.496 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 13:10:39.757 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 13:10:39.758 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 13:10:39.758 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 13:10:39.758 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 13:10:39.760 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 13:10:39.760 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 13:11:27.497 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 13:11:27.498 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 13:11:27.498 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 13:11:27.498 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 13:11:27.498 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 13:11:27.498 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 13:19:26.346 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/User.spec:4
+23-04-2024 13:19:26.347 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 13:19:26.347 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 13:19:26.347 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 13:19:26.347 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 13:19:26.347 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 13:48:00.793 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 13:48:00.793 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 13:48:00.793 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 13:48:00.793 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 13:48:00.794 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 13:48:00.794 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 13:56:29.915 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 13:56:29.916 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 13:56:29.916 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 13:56:29.916 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 13:56:29.916 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 13:56:29.917 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 13:58:18.773 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 13:58:18.773 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 13:58:18.773 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 13:58:18.773 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 13:58:18.773 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 13:58:18.773 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 13:58:59.772 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 13:58:59.773 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 13:58:59.773 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 13:58:59.773 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 13:58:59.774 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 13:58:59.774 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 13:59:32.877 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 13:59:32.877 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 13:59:32.877 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 13:59:32.877 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 13:59:32.877 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 13:59:32.877 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:00:19.837 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 14:00:19.837 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:00:19.837 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:00:19.837 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:00:19.837 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:00:19.838 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:01:19.620 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 14:01:19.620 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:01:19.620 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:01:19.620 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:01:19.620 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:01:19.620 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:01:56.151 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 14:01:56.151 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:01:56.151 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:01:56.151 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:01:56.151 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:01:56.151 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:22:06.765 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 14:22:06.767 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:22:06.767 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:22:06.767 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:22:06.767 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:22:06.767 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:23:03.602 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 14:23:03.603 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:23:03.603 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:23:03.603 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:23:03.603 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:23:03.603 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:27:52.501 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 14:27:52.501 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:27:52.501 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:27:52.501 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:27:52.502 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:27:52.502 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:35:14.086 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 14:35:14.087 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:35:14.087 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:35:14.087 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:35:14.087 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:35:14.087 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:37:04.330 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 14:37:04.331 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:37:04.331 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:37:04.331 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:37:04.331 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:37:04.331 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:38:01.636 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 14:38:01.636 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:38:01.636 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:38:01.636 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:38:01.637 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:38:01.637 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:41:23.540 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Pet.spec:8
+23-04-2024 14:41:23.540 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:41:23.540 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:41:23.540 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:41:23.540 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:41:23.540 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:50:55.879 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 14:50:55.879 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:50:55.879 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:50:55.879 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:50:55.879 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:50:55.879 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:56:09.025 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 14:56:09.025 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:56:09.025 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:56:09.025 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:56:09.025 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:56:09.025 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:57:14.631 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 14:57:14.632 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:57:14.632 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:57:14.632 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:57:14.632 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:57:14.632 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:58:11.406 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 14:58:11.406 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:58:11.406 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:58:11.406 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:58:11.406 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:58:11.406 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:58:52.868 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 14:58:52.868 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:58:52.868 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:58:52.868 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:58:52.868 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:58:52.868 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 14:59:36.766 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 14:59:36.767 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 14:59:36.767 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 14:59:36.767 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 14:59:36.767 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 14:59:36.767 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:00:55.936 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 15:00:55.936 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:00:55.936 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:00:55.936 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:00:55.936 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:00:55.936 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:02:41.981 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 15:02:41.982 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:02:41.982 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:02:41.982 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:02:41.982 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:02:41.982 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:03:23.843 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 15:03:23.844 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:03:23.844 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:03:23.844 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:03:23.844 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:03:23.844 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:04:35.309 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 15:04:35.309 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:04:35.309 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:04:35.309 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:04:35.310 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:04:35.310 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:06:23.947 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 15:06:23.947 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:06:23.947 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:06:23.947 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:06:23.947 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:06:23.947 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:11:41.872 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/Store.spec:4
+23-04-2024 15:11:41.872 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:11:41.872 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:11:41.872 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:11:41.872 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:11:41.872 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:17:55.907 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/User.spec:4
+23-04-2024 15:17:55.907 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:17:55.907 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:17:55.907 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:17:55.907 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:17:55.907 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:30:15.631 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/User.spec:4
+23-04-2024 15:30:15.631 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:30:15.631 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:30:15.631 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:30:15.631 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:30:15.631 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:34:02.573 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/User.spec:4
+23-04-2024 15:34:02.573 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:34:02.573 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:34:02.573 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:34:02.574 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:34:02.574 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:36:53.522 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/User.spec:4
+23-04-2024 15:36:53.522 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:36:53.522 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:36:53.522 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:36:53.522 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:36:53.522 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:39:31.761 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/User.spec:4
+23-04-2024 15:39:31.761 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:39:31.761 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:39:31.761 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:39:31.761 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:39:31.761 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:41:25.733 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/User.spec:4
+23-04-2024 15:41:25.733 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:41:25.733 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:41:25.733 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:41:25.734 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:41:25.734 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:42:31.910 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/User.spec:4
+23-04-2024 15:42:31.910 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:42:31.910 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:42:31.910 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:42:31.910 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:42:31.910 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 15:45:58.364 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestGauge/specs/User.spec:4
+23-04-2024 15:45:58.364 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 15:45:58.364 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 15:45:58.364 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 15:45:58.364 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 15:45:58.364 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+23-04-2024 16:00:34.790 [Gauge] [DEBUG] gauge run C:/Users/mustafa.dogan/Desktop/PetstoreApiTestAutomation/specs/Pet.spec:8
+23-04-2024 16:00:34.791 [Gauge] [DEBUG] hide-suggestion : [true]
+23-04-2024 16:00:34.791 [Gauge] [DEBUG] machine-readable : [true]
+23-04-2024 16:00:34.791 [Gauge] [DEBUG] simple-console : [true]
+23-04-2024 16:00:34.792 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+23-04-2024 16:00:34.792 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
